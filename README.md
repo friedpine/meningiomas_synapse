@@ -1,0 +1,6 @@
+# meningiomas_synapse
+Meningiomas are the most common primary intracranial extra-axial tumors. Although typically benign, 5-15% exhibit brain parenchymal invasion, correlating with aggressive behavior, recurrence, and resistance to therapy.
+
+While neuron-cancer interactions have been identified in several malignancies, meningioma has been traditionally viewed as electrical inactive. In our study, firstly, we found that meningioma cells were able to form glutamatergic synapses-like structures with neighboring neurons by transmission electron microscopy and multiplexed immunohistochemistry. ScRNA-seq further confirmed that meningioma cells exhibited enrichment of synapse and glutamate ionotropic receptor related genes. Moreover, compared to tumor-core populations, meningioma cells at the brain tumor interface (BTI) had enhanced proliferative, invasive, and metastatic characteristics. 
+
+Secondly, patient-derived and IOMM meningioma cells were treated by glutamate in vitro presented with excitatory postsynaptic currents and promoted meningioma cells proliferation, which were absent following the inhibition of the glutamate ionotropic receptor, indicating the glutamatergic synapses-like structures in the meningioma cells were functionally active.
